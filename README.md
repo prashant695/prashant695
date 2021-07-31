@@ -1,5 +1,4 @@
-
-<h1 >Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Prashant</h1>
+<h1 >Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Prashant Agarwal</h1>
 <br/>
 
 ## 🙋‍♂️ About Me
@@ -14,6 +13,7 @@
 [<img align="left" alt="Prashant | Hackerrank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/prashant_695)
 [<img align="left" alt="Prashant | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/prashant-agarwal-921a001b6/)
 
+<br/>
 <br/>
 
 ## 📊 My Github Stats

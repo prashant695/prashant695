@@ -16,4 +16,4 @@
 - [HackerRank](https://www.hackerrank.com/prashant_695)
 
 
-</p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=utkarshkanswal&show_icons=true" alt="shreyaprasad1209" /> </p>
+</p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prashant695&show_icons=true"/> </p>

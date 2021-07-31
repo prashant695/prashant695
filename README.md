@@ -1,5 +1,5 @@
 
-<h1 >Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Prashant</h1>
+<h1 >Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Prashant</h1>
 <br/>
 
 ## 🙋‍♂️ About Me
@@ -7,9 +7,6 @@
 - 🌱 Currently learning **Data Structures and Algorithms.**
 - 👯 Looking to collaborate on **OpenSource Projects**
 - 📫 How to reach me **prashantagarwal695@gmail.com**
-<br/>
-
-
 
 [<img align="left" alt="Prashant | Leetcode" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />](https://leetcode.com/prashant_08)
 [<img align="left" alt="Prashant | Codechef" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />](https://www.codechef.com/users/prashant_08)
@@ -18,10 +15,6 @@
 [<img align="left" alt="Prashant | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/prashant-agarwal-921a001b6/)
 
 <br/>
-
-
-
-
 
 ## 📊 My Github Stats
   <br/>

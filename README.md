@@ -8,7 +8,16 @@
 - 👯 Looking to collaborate on **OpenSource Projects**
 - 📫 How to reach me **prashantagarwal695@gmail.com**
 <br/>
+
+[<img align="left" alt="Prashant | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][https://leetcode.com/prashant_08/]
+[<img align="left" alt="Prashant | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][https://www.codechef.com/users/prashant_08]
+[<img align="left" alt="Prashant | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][https://codeforces.com/profile/prashant_08]
+[<img align="left" alt="Prashant | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg
+" />][https://www.hackerrank.com/prashant_695]
+[<img align="left" alt="Prashant | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/prashant-agarwal-921a001b6/]
+
 <br/>
+
 
 
 ## 📊 My Github Stats
@@ -17,6 +26,7 @@
   <a href="https://github.com/prashant695/github-readme-stats"><img alt="Prashant Agarwal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant695&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
  <br/>
 <br/>
+
 
 ## Profile Views 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">

@@ -1,8 +1,10 @@
 <h1 >Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Prashant Agarwal</h1>
 
+<!--
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=prashant695">
 </a>
+-->
 
 ## 🙋‍♂️ About Me
 

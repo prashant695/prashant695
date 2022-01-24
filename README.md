@@ -12,7 +12,7 @@
 - 👯 Looking to collaborate on **OpenSource Projects**
 - 📫 How to reach me **prashantagarwal695@gmail.com**
 
-[<img align="left" alt="Prashant | Leetcode" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />](https://leetcode.com/prashant_08)
+[<img align="left" alt="Prashant | Leetcode" width="30px" color = "WHITE" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />](https://leetcode.com/prashant_08)
 [<img align="left" alt="Prashant | Codechef" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />](https://www.codechef.com/users/prashant_08)
 [<img align="left" alt="Prashant | Hackerrank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/prashant_695)
 [<img align="left" alt="Prashant | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/prashant-agarwal-921a001b6/)

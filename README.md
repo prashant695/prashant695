@@ -12,10 +12,18 @@
 - 👯 Looking to collaborate on **OpenSource Projects**
 - 📫 How to reach me **prashantagarwal695@gmail.com**
 
-[<img align="left" alt="Prashant | Leetcode" width="30px" color = "WHITE" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />](https://leetcode.com/prashant_08)
-[<img align="left" alt="Prashant | Codechef" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />](https://www.codechef.com/users/prashant_08)
+<a href="https://www.leetcode.com/prashant_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Prashant Agarwal" height="30" width="40" /></a>
+
+<a href="https://www.codechef.com/users/prashant_08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Prashant" height="30" width="40" /></a>
+
+
+<a href="https://www.hackerrank.com/prashant_695" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hacker-rank.svg" alt="Prashant Agarwal" height="30" width="40" /></a>
+
+<!-- 
 [<img align="left" alt="Prashant | Hackerrank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/prashant_695)
-[<img align="left" alt="Prashant | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/prashant-agarwal-921a001b6/)
+ -->
+<a href="https://www.linkedin.com/in/prashanto8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prashant-Agarwal" height="30" width="40" /></a>
+
 
 <br/>
 <br/>

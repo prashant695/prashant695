@@ -22,11 +22,12 @@
 <!-- 
 [<img align="left" alt="Prashant | Hackerrank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/prashant_695)
  -->
+ 
 <a href="https://www.linkedin.com/in/prashanto8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prashant-Agarwal" height="30" width="40" /></a>
 
 
 <br/>
-<br/>
+
 
 ## 📊 My Github Stats
   <br/>

@@ -13,17 +13,13 @@
 - 📫 How to reach me **prashantagarwal695@gmail.com**
 
 <p align="left">
+<a href="https://www.linkedin.com/in/prashanto8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prashant-Agarwal" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/prashant_08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Prashant" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/prashant_695" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prashant_695" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/prashant_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prashant_08" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/prashant_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Prashant Agarwal" height="30" width="40" /></a>
 
-<a href="https://www.codechef.com/users/prashant_08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Prashant" height="30" width="40" /></a>
-
-<!-- 
-<a href="https://www.hackerrank.com/prashant_695" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hacker-rank.svg" alt="Prashant Agarwal" height="30" width="40" /></a>
- -->
-<!-- 
-[<img align="left" alt="Prashant | Hackerrank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/prashant_695)
- -->
-<a href="https://www.linkedin.com/in/prashanto8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prashant-Agarwal" height="30" width="40" /></a>
+    
 </p>
 
 <br/>

@@ -16,9 +16,9 @@
 
 <a href="https://www.codechef.com/users/prashant_08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Prashant" height="30" width="40" /></a>
 
-
+<!-- 
 <a href="https://www.hackerrank.com/prashant_695" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hacker-rank.svg" alt="Prashant Agarwal" height="30" width="40" /></a>
-
+ -->
 <!-- 
 [<img align="left" alt="Prashant | Hackerrank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/prashant_695)
  -->
